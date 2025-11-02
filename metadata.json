@@ -1,0 +1,5 @@
+{
+  "name": "Environmental Hotspot Analyzer",
+  "description": "An application for environmental analysts to identify pollution hotspots from sensor data using AI. Users can paste sensor readings (CSV format) to get an analysis of the top 3 geographic hotspots, including reasoning and suggested community actions.",
+  "requestFramePermissions": []
+}
